@@ -36,7 +36,7 @@ Modeled from the key building blocks of the Fairchild 660 compressor:
 ○ Input Transformer (T1)
 Adds musical pre-coloration & interacts with Input Gain
 
-○ 6386 Mu-Variable Tube Stage
+○ Mu-Variable Tube Stage
 Emulates increasing compression ratio as level rises (vari-mu curve)
 
 ○ Sidechain Detector
@@ -58,7 +58,7 @@ Modern workflow features added while preserving vintage behavior.
 
 ✔ 100% MetaSound Native
 
-No external DSP libraries required. Works in UE 5.3+.
+No external DSP libraries required. Works in UE 5.4.
 
 
 
