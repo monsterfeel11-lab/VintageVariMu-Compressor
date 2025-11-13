@@ -98,42 +98,40 @@ Each component can be opened and studied individually to understand how analog b
 
 ★ User-Adjustable Parameters
 
-Input Gain (dB)
+● Input Gain (dB)
 
 Controls how hard the signal hits the tube stage.
 Acts like the PAD/Pre-gain of the real Fairchild.
 
-Threshold (dB)
+● Threshold (dB)
 
 Level at which compression begins.
 Lower threshold = more compression.
 
-Ratio
-
-Controls base compression intensity.
-Internally multiplied by the vari-mu curve to mimic tube behavior.
-
-Knee (dB)
-
-Softens the transition into compression.
-0 dB = hard knee, 6–12 dB = soft vintage knee.
-
-Time Constant Mode (1–6)
+● Time Constant Mode (1–6)
 
 Recreates the Fairchild’s 6 release profiles.
 Each mode blends fast and slow release components.
 
-Makeup Gain (dB)
+
+● Ratio
+
+Controls base compression intensity.
+Internally multiplied by the vari-mu curve to mimic tube behavior.
+
+● Knee (dB)
+
+Softens the transition into compression.
+0 dB = hard knee, 6–12 dB = soft vintage knee.
+
+
+● Makeup Gain (dB)
 
 Restores gain lost during compression.
 
-Mix (Dry/Wet)
+● Mix (Dry/Wet)
 
 Allows parallel compression.
-
-Color Amount
-
-Controls the level of output transformer/tube saturation.
 
 
 
